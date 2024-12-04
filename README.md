@@ -1,8 +1,8 @@
-# Evelyn
+# Adventure breizh
 
-A landing page template.
+The website to buy a travel maps. 
 
-* [Getting started](#getting-started)
+* [Website](https://morgancab.github.io/Adventure_Breizh/)
 
 ## Getting started
 * First, ensure that node.js & npm are both installed. If not, choose your OS and installation method from [this page](https://nodejs.org/en/download/package-manager/) and follow the instructions.
